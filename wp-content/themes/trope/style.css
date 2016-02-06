@@ -676,9 +676,10 @@ img.wp-smiley, .rsswidget img {
 	list-style-position: inside;
 }
 
-.content_begin {margin-top: 41px;
-border-top: 3px solid #eee;}
-/*---------------  Header Style  ----------------*/
+.content_begin {margin-top: 0px;
+border-top: 0px solid #eee;}
+/*margin-top: 41px;
+border-top: 3px solid #eee; ---------------  Header Style  ----------------*/
 
 
 
@@ -715,7 +716,7 @@ a:hover {
 	font-size:46px;
 	display:inline-block;
 	transition: all 0.5s ease 0s;
-	margin-top:10px;
+	margin-top:0px;
 }
 #site-title a:hover {
 	/*border-bottom:5px solid #7ac9ed; */
