@@ -1,0 +1,73 @@
+/* Widget ads */
+
+.ads125_125-widget ul li {
+  background: none repeat scroll 0 0 #eee;
+  float: left;
+  margin: 0 10px 10px 0;
+  padding: 10px;
+}
+.ads125_125-widget ul li a {
+  display: block;
+  font-size: 0;
+  line-height: 0;
+}
+#sidebar h3 {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    
+    letter-spacing: 0.5px;
+    padding: 5px 0;
+    text-transform: uppercase;
+    word-spacing: 2px;
+}
+#sidebar .widget-title {
+    color: #111;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 24px;
+    margin: 0 0 10px;
+	font-family: 'Lato';
+	font-style: normal;
+}
+ul.popular-posts-sdr li, .widget_recent_entries ul li, .widget_categories ul li, .widget_archive ul li, .widget_meta ul li, .widget_pages ul li, 
+.widget_recent_comments ul li, .widget_nav_menu ul li{
+    border-bottom: 1px solid #e0e0e0;
+    display: block;
+    margin: 0 3px;
+    padding: 10px 0;
+}
+
+
+ul.popular-posts-sdr li:first-child, .widget_recent_entries ul li:first-child, .widget_categories ul li:first-child, .widget_archive ul li:first-child, .widget_meta ul li:first-child{
+    padding-top: 0;
+}
+
+ul.popular-posts-sdr li a, .widget_recent_entries ul li a, .widget_categories ul li a, .widget_archive li a, .widget_meta li a{
+    color: #7ac9ed;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 20px ;
+    padding: 0;
+	font-family: 'Lato',sans-serif;
+}
+
+#sidebar ul li a:hover {text-decoration:underline;}
+
+.popular-posts-sdr p
+{
+	margin:0
+}
+.tagcloud a {
+    background: none repeat scroll 0 0 #eeeeee;
+    border-radius: 3px;
+    box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.15) inset;
+    color: #111 !important;
+    font-size: 12px !important;
+    line-height: 33px;
+    margin: 5px 0;
+    padding: 5px 10px;
+}
+.tagcloud a:hover
+{
+	background:#7ac9ed; color:#fff !important;
+}
+

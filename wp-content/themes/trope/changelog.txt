@@ -1,0 +1,28 @@
+*** Trope changelog ***
+
+Version 1.0.6 (2015-07-09)
+-------------------------
+- Mobile Menu was improved
+
+Version 1.0.5 (2015-07-06)
+-------------------------
+- Bug was removed from function.php
+
+
+Version 1.0.4 (2015-07-07)
+-------------------------
+- Translation improved
+- Minor CSS changes
+
+Version 1.0.3 (2015-07-01)
+-------------------------
+- Translation was Added
+
+
+Version 1.0.2 (2015-06-01)
+-------------------------
+- Optimized the CSS for brevity and browser compatibility
+
+
+Version 1 (2015-05-01)
+-------------------------
